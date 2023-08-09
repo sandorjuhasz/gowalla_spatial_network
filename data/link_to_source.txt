@@ -1,0 +1,5 @@
+Friendship network of Gowalla users:
+https://snap.stanford.edu/data/loc-gowalla_edges.txt.gz
+
+Time and location information of check-ins made by users:
+https://snap.stanford.edu/data/loc-gowalla_totalCheckins.txt.gz
